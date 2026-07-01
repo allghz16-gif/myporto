@@ -122,7 +122,7 @@ export default function Hero() {
             variants={item}
             className="mt-4 bg-gradient-to-r from-flow via-signal to-flow bg-[length:200%_auto] bg-clip-text font-mono text-sm uppercase tracking-[0.15em] text-transparent animate-gradientX sm:text-base"
           >
-            IT Student · Full-Stack Developer · Event Organizer
+            IT Student · Full-Stack Developer 
           </motion.p>
 
           <motion.p variants={item} className="mt-6 max-w-md text-base leading-relaxed text-ink-muted">

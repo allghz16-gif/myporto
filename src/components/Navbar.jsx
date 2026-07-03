@@ -17,7 +17,7 @@ export default function Navbar() {
     >
       <nav className="container-page flex h-16 items-center justify-between">
         <a href="#home" className="font-display text-lg font-semibold tracking-tight">
-          andhika<span className="text-flow">.</span>dev
+          Andhika<span className="text-flow">.</span>dev
         </a>
         <ul className="hidden items-center gap-8 md:flex">
           {LINKS.map((link) => (

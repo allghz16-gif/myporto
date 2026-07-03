@@ -6,8 +6,8 @@ const projects = [
     description:
       "Aplikasi web analitik penjualan berbasis Laravel + React. Menyediakan dashboard metrik penjualan, autentikasi via Sanctum, dan ekspor laporan ke CSV, Excel, dan PDF.",
     stack: ["React JS", "Laravel", "Tailwind CSS", "Sanctum Auth", "Axios"],
-    link: "#",
-    status: "In Progress",
+    link: "https://frontend-pipeltycs.vercel.app/",
+    status: "Selesai",
   },
   {
     id: "02",
